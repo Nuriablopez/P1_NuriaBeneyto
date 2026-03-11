@@ -5,6 +5,12 @@ TagManager:
   serializedVersion: 3
   tags:
   - Floor
+  - FxTemporaire
+  - Obstacle
+  - Obstcales
+  - Coin
+  - Enemy
+  - Goal
   layers:
   - Default
   - TransparentFX

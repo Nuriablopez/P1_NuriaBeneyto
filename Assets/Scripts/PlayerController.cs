@@ -12,6 +12,8 @@ public class PlayerController : MonoBehaviour
     private Animator anim;
     private int n_saltos = 0;
 
+    //static public int num_coins = 0;
+
     private void Start()
     {
         rb = GetComponent<Rigidbody>();
